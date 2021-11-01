@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rook.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rook0000" x="0" y="0" width="540" height="1066"/>
+	<SubTexture name="rook down0000" x="540" y="0" width="540" height="1066"/>
+	<SubTexture name="rook left0000" x="1080" y="0" width="540" height="1066"/>
+	<SubTexture name="rook right0000" x="1620" y="0" width="540" height="1066"/>
+	<SubTexture name="rook up0000" x="2160" y="0" width="540" height="1066"/>
+</TextureAtlas>
